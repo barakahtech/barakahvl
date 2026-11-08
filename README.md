@@ -14,6 +14,7 @@ Barakah Tech is committed to empowering businesses through modern digital soluti
 
 ---
 
+
 ## Our Services
 
 Barakah Tech provides a wide range of services tailored to help businesses succeed in the digital landscape:
@@ -64,8 +65,7 @@ Barakah Tech stands out for delivering results that matter:
 Whether you’re launching a new project or scaling your digital presence, Barakah Tech is here to help.
 
 **Website:** https://barakahtech.com  
-**Email:** info@barakahtech.com  
-**Address:** 205/4, West Kafrul, Begum Rokeya Sarani, Dhaka, Bangladesh
+**Email:** info@barakahtech.com 
 
 ---
 
